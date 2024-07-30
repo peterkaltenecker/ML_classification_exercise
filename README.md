@@ -1,4 +1,4 @@
-## Classification_exercise
+## Classification exercise
 In preparation for an upcuming research project, I used the *Breast cancer wisconsin (diagnostic) dataset* to practice training ML models for classification.
 The nature of this dataset is quite close to that of I will be working with:
 - the number of instances is in the same range and the ratio of malignant and benign cases represent the bias that is typical of real life scenarios
